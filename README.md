@@ -13,8 +13,10 @@
 
 To use **Pubip** in your Rust project, add it as a dependency in your `Cargo.toml`:
 
+```
 [dependencies]
 pubip = { git = "https://github.com/Arsquid/pubip" }
+```
 
 ## Usage
 
