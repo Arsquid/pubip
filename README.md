@@ -15,6 +15,7 @@ To use **pubip** in your Rust project, add it as a dependency in your `Cargo.tom
 
 ```
 [dependencies]
+tokio = "1.39.2"
 pubip = { git = "https://github.com/Arsquid/pubip" }
 ```
 
