@@ -11,7 +11,7 @@
 
 ## Installation
 
-To use **Pubip** in your Rust project, add it as a dependency in your `Cargo.toml`:
+To use **pubip** in your Rust project, add it as a dependency in your `Cargo.toml`:
 
 ```
 [dependencies]
@@ -20,7 +20,7 @@ pubip = { git = "https://github.com/Arsquid/pubip" }
 
 ## Usage
 
-Here is an example code to utilize pubip:
+Here is an example code to utilize **pubip**:
 
 ```
 use pubip::fetch_ip;
@@ -42,6 +42,7 @@ Use `cargo test` to utilize the unit tests.
 These include:
 - Success or failure for fetching the IP address.
 - Simulated tests for both IPv4 and IPv6 address formats.
+
 
 Contributions are welcome!
 
