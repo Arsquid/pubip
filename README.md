@@ -1,4 +1,4 @@
-# Pubip - A Rust Library for Fetching Public IP Addresses
+# Pubip - A rust library for fetching public IP addresses
 
 **Pubip** is a simple and lightweight Rust library that provides an easy way to retrieve the public IP address of the host. It supports both IPv4 and IPv6 addresses and ensures anonymity by not collecting logs and using TLS encryption for secure communication.
 
@@ -35,7 +35,7 @@ async fn main() {
 
 ## Testing
 
-Use 'cargo test' to utilize the unit tests.
+Use `cargo test` to utilize the unit tests.
 
 These include:
 - Success or failure for fetching the IP address.
